@@ -54,16 +54,16 @@ Sistema de gerenciamento odontológico com:
 
 ## 📈 Estatísticas do GitHub
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrmatts&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrmatts&layout=compact)
 
 ---
 
 ## 📫 Contato
 
-- 💼 GitHub: [github.com/SEU_USUARIO_GITHUB](https://github.com/SEU_USUARIO_GITHUB)
-- 📧 Email: seuemail@email.com
+- 💼 GitHub: [github.com/SEU_USUARIO_GITHUB](https://github.com/gabrmatts)
+- 📧 Email: ogabrgomes@gmail.com
 
 ---
 
