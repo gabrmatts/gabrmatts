@@ -8,12 +8,15 @@
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor focado em **Python** e **interfaces gráficas**, sempre buscando criar sistemas organizados, modernos e funcionais.  
-Atualmente estou desenvolvendo projetos voltados para **gestão**, com atenção especial a UX/UI e código limpo.
+Sou **desenvolvedor front-end em formação**, focado na criação de interfaces web modernas, responsivas e bem organizadas.  
+Gosto de transformar layouts em código, sempre buscando boas práticas, clareza e uma boa experiência para o usuário.
 
-- 🎯 Foco em evolução constante  
-- 📚 Sempre aprendendo algo novo  
-- 🛠️ Curto transformar ideias em sistemas reais
+Atualmente estudo e desenvolvo projetos com **HTML, CSS e JavaScript**, explorando design responsivo, organização de código e fundamentos de performance e acessibilidade.
+
+- 🎯 Foco em evolução constante no front-end
+- 🎨 Atenção a detalhes visuais e UI
+- 📱 Desenvolvimento responsivo
+- 📚 Aprendizado contínuo em tecnologias web
 
 ---
 
